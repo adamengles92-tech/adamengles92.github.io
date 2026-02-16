@@ -44,4 +44,4 @@ A sophisticated AI-driven chatbot developed using **Python** and **Azure AI Serv
 * [ ] Expand NLP capabilities to support multi-language translation.
 
 ---
-Developed by **[Your Name]** as part of a transition into Software Engineering.
+Developed by Adam Engles as part of a transition into Software Engineering.
