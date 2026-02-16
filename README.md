@@ -24,7 +24,7 @@ A sophisticated AI-driven chatbot developed using **Python** and **Azure AI Serv
 ## ⚙️ Setup & Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
+    git clone [https://github.com/adamengles92/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
     ```
 2.  **Install dependencies:**
     ```bash
